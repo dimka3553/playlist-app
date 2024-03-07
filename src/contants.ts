@@ -1,0 +1,1 @@
+export const apiURL = 'https://youtube.thorsteinsson.is/api'
